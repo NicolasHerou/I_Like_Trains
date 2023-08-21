@@ -1,8 +1,8 @@
-/Libray
-/logs
-/obj
-/Packages
-/ProjectSettings
-/Temp
+/Libray/
+/logs/
+/obj/
+/Packages/
+/ProjectSettings/
+/Temp/
 Assembly-CSharp.csproj
 I_like_trains.sln
